@@ -93,7 +93,8 @@ num=6
 if num==special(num):
     print('special number')
 else:
-    print('not psecisl number')
+    print('not special number number')
+print()
 
 
 
